@@ -26,10 +26,15 @@ have been applied to enhance the dataset for further analysis or modelling.
 
 <h3>Technologies Used</h3>
 <b>Python</b>
+<br>
 <b>Pandas</b>
+<br>
 <b>NumPy</b>
+<br>
 <b>Matplotlib</b>
+<br>
 <b>Seaborn</b>
+<br>
 
 Feel free to explore the Jupyter Notebook or Python script provided in this repository for detailed analysis and visualization.
 
