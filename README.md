@@ -17,6 +17,7 @@ The Black Friday dataset comprises various features related to transactions made
 <h3>EDA</h3>
 The exploratory data analysis aims to understand the characteristics of the dataset, identify patterns, and gain insights into customer behaviour during Black Friday sales. Key steps in EDA include:
 <br>
+<br>
 <b>Data cleaning:</b> Handling missing values, removing duplicates, etc.
 <br>
 <b>Descriptive statistics:</b> Summary statistics, distribution of variables, etc.
