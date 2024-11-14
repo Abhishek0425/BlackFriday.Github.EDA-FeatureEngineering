@@ -25,13 +25,11 @@ Scaling numerical features.
 have been applied to enhance the dataset for further analysis or modelling.
 
 <h3>Technologies Used</h3>
-<b>
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-</b>
+<b>Python</b>
+<b>Pandas</b>
+<b>NumPy</b>
+<b>Matplotlib</b>
+<b>Seaborn</b>
 
 Feel free to explore the Jupyter Notebook or Python script provided in this repository for detailed analysis and visualization.
 
