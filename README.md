@@ -8,8 +8,11 @@ The Black Friday dataset comprises various features related to transactions made
 
 <h3>Files</h3>
 <b>BlackFridayDataset.zip:</b> The original dataset in CSV format.
+<br>
 <b>Black Friday EDA and Feature Engineering.ipynb:</b> Jupyter Notebook containing the EDA and feature engineering process.
+<br>
 <b>README.MD:</b> This file provides an overview of the project.
+<br>
 
 <h3>EDA</h3>
 The exploratory data analysis aims to understand the characteristics of the dataset, identify patterns, and gain insights into customer behaviour during Black Friday sales. Key steps in EDA include:
