@@ -24,7 +24,7 @@ Creating derived features.
 Scaling numerical features.
 have been applied to enhance the dataset for further analysis or modelling.
 
-<h3>Technologies Used</h3>
+<h3>Technologies Used:</h3>
 <b>Python</b>
 <br>
 <b>Pandas</b>
