@@ -16,9 +16,13 @@ The Black Friday dataset comprises various features related to transactions made
 
 <h3>EDA</h3>
 The exploratory data analysis aims to understand the characteristics of the dataset, identify patterns, and gain insights into customer behaviour during Black Friday sales. Key steps in EDA include:
+<br>
 <b>Data cleaning:</b> Handling missing values, removing duplicates, etc.
+<br>
 <b>Descriptive statistics:</b> Summary statistics, distribution of variables, etc.
+<br>
 <b>Visualization:</b> Plots and charts to visualize relationships between variables.
+<br>
 
 <h3>Feature Engineering</h3>
 Feature engineering involves creating new features or transforming existing ones to improve model performance or gain better insights. This project features engineering techniques such as:
